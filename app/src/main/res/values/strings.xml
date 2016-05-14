@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConverterUS</string>
+
+
+    <string-array
+        name="convert_ratio">
+        <item>3.785</item>
+    </string-array>
+
+
+</resources>
